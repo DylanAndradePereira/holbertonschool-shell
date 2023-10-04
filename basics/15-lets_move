@@ -1,2 +1,3 @@
 #!/bin/bash
-pwd
+mv [A-Z]* /tmp/u
+
